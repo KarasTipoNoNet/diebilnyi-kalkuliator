@@ -12,9 +12,9 @@ pip install colorama
 5. Заходим на диск Ц с помощью команды: cd C:\
 6. Запускаем командой: python3 kalkulator.py
 
-#  Как установить на Termux?
+#  Как установить на Termux / GNU Bash?
 
-1. Скачиваем сам термукс
+1. Скачиваем сам термукс 
 2. Прописываем: pkg install git
 3. После установки прописываем: pkg install python3
 4. После установки прописываем: git clone https://github.com/KarasTipoNoNet/diebilnyi-kalkuliator
