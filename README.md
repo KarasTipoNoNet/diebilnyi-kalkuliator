@@ -12,7 +12,7 @@ pip install colorama
 5. Заходим на диск Ц с помощью команды: cd C:\
 6. Запускаем командой: python3 kalkulator.py
 
-#  Как установить на Termux / GNU Bash?
+#  Как установить на Termux?
 
 1. Скачиваем сам термукс 
 2. Прописываем: pkg install git
